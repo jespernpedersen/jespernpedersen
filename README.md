@@ -1,3 +1,5 @@
+Hey there! Welcome to my Github profile 👋
+
 <a href="https://www.linkedin.com/in/jespernpedersen/">
    <img align="left" alt="Jesper's LinkedIn" width="180px" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/LinkedIn_Logo_2013_%282%29.svg" />    
 </a>
